@@ -13,7 +13,7 @@ I get a real kick out of **troubleshooting**. There’s something deeply satisfy
 ## **💡 Why I do this?** 
 
 I live by a quote that perfectly sums up my motivation:
-> “When one teaches, two learn.” — Robert Heinlein
+> **“When one teaches, two learn.” — Robert Heinlein**
 
 I genuinely enjoy learning and tinkering, but I also believe that sharing what you learn is what truly helps it stick. Giving back to the community makes the whole process more meaningful - and honestly, more fun.
 
@@ -24,4 +24,4 @@ Check out my [Website](https://stalin.thetinkerer.dev) - that’s where I post h
 ## **🚀 Join the journey**
 
 I’ll be sharing new projects, practical how-tos, and ways to get more from your tech setup. Whether you’re just getting started or deep into DevOps, you’ll find ideas and insights to sharpen your skills.
-Let’s tinker, learn, and build together — and make technology work for us in smarter, more creative ways.
+Let’s **tinker**, **learn**, and **build** together - and make technology work for us in smarter, more creative ways.
