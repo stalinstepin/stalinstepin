@@ -1,5 +1,7 @@
 # Stalin Stepin
 
+<img width="1000" height="423" alt="background_2" src="https://github.com/user-attachments/assets/30339596-ca44-4dea-bb83-267822f29893" />
+
 **Hi there!👋**
 
 **I’m Stalin - an IT engineer who loves tinkering, learning, and sharing what I discover with others.**
